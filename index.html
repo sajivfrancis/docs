@@ -1,0 +1,149 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="UTF-8">
+  <meta name="description" content="Welcome to Sajiv Francis's docs page. Here you will find useful documents for sap and software engineering domains. Please feel free to add your suggestions through comments and help us improve this page">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" />
+  <title>Sajiv Francis's Docs</title>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-S5R24EQGE8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-S5R24EQGE8');
+  </script>
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NT2946X');
+  </script>
+  <!-- End Google Tag Manager -->
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NT2946X" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      logo: '/images/icon.png',
+      themeColor: '#FC3636',
+      el: "#app",
+      repo: 'https://github.com/sajivfrancis/Docs/tree/master',
+      loadSidebar: true,
+      auto2top: true,
+      autoHeader: false,
+      subMaxLevel: 3,
+      maxLevel: 5,
+      // docsify-copy-code (defaults)
+      copyCode: {
+        buttonText: 'Copy to clipboard',
+        errorText: 'Error',
+        successText: 'Copied'
+      },
+      disqus: 'sajivfrancis',
+      share: {
+        reddit: true,
+        linkedin: true,
+        facebook: true,
+        twitter: true,
+        whatsapp: true,
+        telegram: true,
+      },
+    }
+    hook.beforeEach(function(content) {
+      return content.replace(/..\/..\/img/g, "img");
+    })
+
+    window.$docsify = {
+      search: 'auto', // default
+
+      search: [
+        './', // => /root
+        './documents/', // => /documents-index
+        './SAP/', // => /SAP
+        './SAPACCSTANDARDS/', // => /SAPACCSTANDARDS
+        './SAPERP-ECC&S4HANA/', // => /SAPERP-ECC&S4HANA
+        './SOFTWARE.ENGG/', // => /SOFTWARE.enginenring
+        './ACCOUNTING/', // => /ACCOUNTING
+      ],
+
+      // complete configuration parameters
+      search: {
+        maxAge: 600, // Expiration time, the default one day
+        paths: [], // or 'auto'
+        placeholder: 'Type to search',
+
+        // Localization
+        placeholder: {
+          '/': 'Type to search'
+        },
+
+        noData: 'No Results!',
+
+        // Localization
+        noData: {
+          '/': 'No Results'
+        },
+
+        // Headline depth, 1 - 6
+        depth: 2,
+
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+
+        // between multiple websites under the same domain
+        namespace: 'docs.sajivfrancis.com',
+
+        // Use different indexes for path prefixes (namespaces).
+        // NOTE: Only works in 'auto' mode.
+        //
+        // When initialiazing an index, we look for the first path from the sidebar.
+        // If it matches the prefix from the list, we switch to the corresponding index.
+        pathNamespaces: ['./', './documents/', './SAP/', './SOFTWARE.ENGG/', './ACCOUNTING/'],
+
+
+      }
+    }
+
+    function fancyAlert(arg) {
+      if (arg) {
+        $.facebox({
+          div: '#foo'
+        })
+      }
+    }
+  </script>
+  <!-- Latest v2.x.x -->
+  <script src="https://unpkg.com/docsify-copy-code@2"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/disqus.min.js"></script>
+  <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+</body>
+
+</html>
