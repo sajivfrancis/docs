@@ -30,6 +30,13 @@
     - [configuration](./SAPCENTRALFINANCE/configuration/index)
     - [userassistance](./SAPCENTRALFINANCE/userassistance/index)
 
+  * SAP FSCM
+    - [cashnliquiditymgt](./SAPFSCM/cashnliquiditymgt/index)
+    - [collectionsmgt](./SAPFSCM/collectionsmgt/index)
+    - [creditmgt](./SAPFSCM/creditmgt/index)
+    - [disputemgt](./SAPFSCM/disputemgt/index)
+    - [treasurynriskmgt](./SAPFSCM/treasurynriskmgt/index)
+
   * SAP FIORI
     - [apps](./SAPFIORI/apps/index)
     - [fioriappdev](./SAPFIORI/fioriappdev/index)
