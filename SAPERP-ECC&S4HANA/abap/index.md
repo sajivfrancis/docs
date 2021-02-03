@@ -66,8 +66,9 @@ ABAP ...
 | USR41 | User master: Additional data |  |
 | UST04 | User masters |  |
 | UST12 | User master: Authorizations |  |
+| V_USERNAME | Generated Table for View |  |
 
-| Address     |  |  |
+| Address  | Description  |
 |-----------------|--------------|
 | ADCP | Person/Address Assignment (Business Address Services) |  |
 | ADR12 | FTP and URL (Business Address Services) |  |
@@ -79,7 +80,7 @@ ABAP ...
 | ADRP | Persons (Business Address Services) |  |
 | ADRT | Communication Data Text (Business Address Services) |  |
 
-| Change documents     |  |  |
+| Change Documents  | Description  |
 |-----------------|--------------|
 | CDHDR | Change document header | In Logical Database AAV BBM CRK ERM ILM ODK. |
 | CDPOS | Change document items | In Logical Database AAV BBM CRK ERM ILM ODK. |
@@ -93,13 +94,13 @@ ABAP ...
 | STXH | STXD SAPscript text file header | In Logical Database AAV AKV ALV ARV BBM ERM ILM. |
 | STXL | STXD SAPscript text file lines | In Logical Database AAV AKV ALV ARV BBM ERM ILM. |
 
-| Sets     |  |  |
+| Sets  | Description  |
 |-----------------|--------------|
 | SETHEADER | Set Header and Directory |  |
 | SETLEAF | Values in Sets |  |
 | SETNODE | Lower-level sets in sets |  |
 
-| Status     |  |  |
+| Status  | Description  |
 |-----------------|--------------|
 | JCDO | Change Documents for Status Object (Table JSTO) |  |
 | JCDS | Change Documents for System/User Statuses (Table JEST) | In Logical Database ODK PSJ. |
@@ -110,7 +111,7 @@ ABAP ...
 | TJ30 | User Status |  |
 | TJ30T | Texts for User Status |  |
 
-| Characteristics     |  |  |
+| Characteristics  | Description  |
 |-----------------|--------------|
 | CABN | Characteristic |  |
 | CABNT | Characteristic Descriptions |  |
@@ -121,12 +122,12 @@ ABAP ...
 | KSML | Characteristics of a Class |  |
 | SWOR | Classification System: Keywords |  |
 
-| Classification     |  |  |
+| Classification  | Description  |
 |-----------------|--------------|
 | AUSP | Characteristic Values |  |
 | KSSK | Allocation Table: Object to Class |  |
 
-| Documents     |  |  |
+| Documents  | Description  |
 |-----------------|--------------|
 | BDS_BAR_EX | Business Document Service: External Bar Codes |  |
 | BDS_BAR_IN | Business Document Service: Internal Bar Codes |  |
@@ -140,16 +141,14 @@ ABAP ...
 | TOA02 | Link table 2 |  |
 | TOA03 | Link table 3 |  |
 
-| User     |  |  |
+| Enterprise Structure   | Description  |
 |-----------------|--------------|
-| USR02 | Logon Data (Kernel-Side Use) |  |
-| V_USERNAME | Generated Table for View |  |
-| Enterprise Structure     |  |  |
 | T000 | Clients | In Logical Database K1V KOV. |
 | T001 | Company Codes |  |
 | T003 | Document Types |  |
 
-| Customizing     |  |  |
+
+| Customizing   | Description  |
 |-----------------|--------------|
 | NRIV | Number Range Intervals | Edit with transaction SNUM. |
 | T006 | Units of Measurement |  |
