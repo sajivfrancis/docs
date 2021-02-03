@@ -95,15 +95,17 @@ run in addition to CB and/ or AB CO-PA and is currently available with S/4HANA.
 ### Costing versus Account based COPA:
 
 | Description | Costing based | Account based |
+|-------------|---------------|---------------|
 | Postings | Sales Order is Created | Accounting Document is posted to Financial Accounting |
-| COPA Data Transfer | Data is transferred with Value Fields to Costing based COPA Tables | Data is transferred with Revenue/Cost elements to ACDOCA tables. |
+| Data Transfer | Value Fields to Costing based COPA Tables | Revenue/Cost elements to ACDOCA tables. |
 | COGS Postings | With Billing Document Posting | With Post Goods Issue (PGI) |
 | Reconciliation with GL | Pain point | Reconciled |
-| Currencies | Operating Concern Currency; Company Code Currency | Controlling Area Currency, Company Code Currency, Transaction Currency |
-| Settlement | Costs are settled from the original cost elements to the valuefields to which they are assigned in the PA transfer structure | Costs are settled to the settlement cost element specified in the settlement structure |
+| Currencies | Op. Concern Curr; Comp.Code Curr | Cont. Area Curr, Comp.Code Curr, Tr. Curr |
+| Settlement | Costs are settled from the original cost elements to the value fields to which they are assigned in the PA transfer structure | Costs are settled to the settlement cost element specified in the settlement structure |
 | Parallel Valuation | Costing based COPA provides 6 parallel valuations forcalculating the cost of goods sold (COGS). This enables youcompare the standard cost for sales processes with differentproduction opportunities in different plants. | N/A |
 | Sales Order Analysis | Can transfer the sales order data to Profitability Analysis =>an early analysis of profit forecast can be carried out. | N/A |
 | COPA Tables | Costing based COPA Stores Data in CE1XXXX to CE1XXXX tables. CE1XXXX is actuals data CE2XXXX is Plan data. CE3XXXX & CE4XXXX contain aggregated and segment level data within the Operating Concern | Account based COPA Stores data in general CO tables. Line item actual data in ACDOCA. Line item plan data in ACDOCP. Actual line item in COEP value type not equal to 4 and not equal to 11. Plan line item in COSP & COEJ specific value types |
+|-------------|---------------|---------------|
 
 
 ## SAP Best Practices COPA Account Structure:
