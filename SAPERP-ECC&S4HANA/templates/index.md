@@ -54,11 +54,3 @@ Commands:
 ## WRICEF (ABAP based Custom Dev) - FS - Enhancements (Transactions and Apps):
 
 <iframe src="https://drive.google.com/file/d/1BaMxF2U0cN1mUW_KWJ4RDJHlR-knX8PR/preview" width="640" height="480"></iframe>
-
-## WRICEF - Functional Spec Template:
-
-<iframe src="https://drive.google.com/file/d/1xfPrZj5e9fBld3gv36MBa7OLm9bxkHF8/preview" width="640" height="480"></iframe>
-
-## WRICEF - Technical Spec Template:
-
-<iframe src="https://drive.google.com/file/d/1ebB1xOAfEo4m23COyIPqIhaOdz3ixt1f/preview" width="640" height="480"></iframe>
