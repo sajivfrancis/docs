@@ -44,31 +44,31 @@ Revenue and COGS should be posted in the same period as per Matching Principle i
 
 ### Steps to Post COGS at Billing:
 
-#### Transaction OBYC > GBB > VAX > Goods in transit account:
+1. Transaction OBYC > GBB > VAX > Goods in transit account:
 
 Switch the COGS account with a Goods in Transit Account, the goods issue entry will change to below
 
 [![pgi1vprs](pgi1vprs.png)](https://docs.sajivfrancis.com "SAP")
 
-#### Transaction V/08 > Pricing Procedure > VPRS > Accrual Account Key:
+2. Transaction V/08 > Pricing Procedure > VPRS > Accrual Account Key:
 
 Maintain a new account key and assign to VPRS:
 
 [![pgi2vprs](pgi2vprs.png)](https://docs.sajivfrancis.com "SAP")
 
-#### Transaction VKOA > Assign GL Accounts to the new Account Key:
+3. Transaction VKOA > Assign GL Accounts to the new Account Key:
 
 Assign COGS account in the provision column and Goods in Transit in GL column:
 
 [![pgi3vprs](pgi3vprs.png)](https://docs.sajivfrancis.com "SAP")
 
-#### Change VPRS condition to accept accruals:
+4. Change VPRS condition to accept accruals:
 
 This tells SAP to post the VPRS value to the 2 accounts maintained in VKOA:
 
 [![pgi4vprs](pgi4vprs.png)](https://docs.sajivfrancis.com "SAP")
 
-#### Billing Document Posted as below:
+5. Billing Document Posted as below:
 
 [![pgi5vprs](pgi5vprs.png)](https://docs.sajivfrancis.com "SAP")
 
