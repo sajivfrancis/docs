@@ -46,6 +46,7 @@ Note: Configuration - Material Valuation by Material Type (MAP vs Standard)
 ### Material Views:
 
 | Sr.No. | Material Type | Basic Data | Sales  | MRP  | Purchase  | Store  | Accounting | Forecaste | Costing |
+|----|------|---|---|---|---|---|---|---|---|
 | 1 | ROH | X | - | X | X | X | X | X | - |
 | 2 | KMAT | X | X | X | X | X | X | X | - |
 | 3 | HALB | X | X | X | X | X | X | X | - |
