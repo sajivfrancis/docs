@@ -22,6 +22,25 @@ SAP MM ...
 
 [![CentralPurchasing](CentralPurchasing.png)](https://www.sap.com "SAP")
 
+### Material Types:
+
+| Material types | Description |
+|----------------|-------------|
+| ROH  | Raw materials |
+| KMAT | Configurable Materials |
+| HALB | Semi finished materials |
+| LIEH | Returnable Packaging |
+| HIBE | Operating Supplies |
+| HAWA | Trading goods |
+| FERT | Finished products |
+| ERSA | Spare Parts |
+| VERP | Packing Material |
+| NLAG | Non stock items |
+| PIPE | Pipe line |
+| DIEN | Services |
+| UNBW | Non valuated items |
+|----------------|-------------|
+
 ## Tables:
 
 | Table | Name | S/4HANA - Notes |
