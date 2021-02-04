@@ -41,6 +41,27 @@ SAP MM ...
 | UNBW | Non valuated items |
 |----------------|-------------|
 
+Note: Configuration - Material Valuation by Material Type (MAP vs Standard)
+
+### Material Views:
+
+| Sr.No. | Material Type | Basic Data | Sales  | MRP  | Purchase  | Store  | Accounting | Forecaste | Costing |
+| 1 | ROH | X | - | X | X | X | X | X | - |
+| 2 | KMAT | X | X | X | X | X | X | X | - |
+| 3 | HALB | X | X | X | X | X | X | X | - |
+| 4 | LIEH | X | - | - | X | X | X | - | X |
+| 5 | HIBE | X | - | X | X | X | X | X | - |
+| 6 | NLAG | X | - | X | X | X | X | X | - |
+| 7 | HAWA | X | X | X | - | X | X | X | - |
+| 8 | FERT | X | - | X | X | X | X | X | - |
+| 9 | ERSA | X | - | - | X | - | X | - | - |
+| 10 | VERP | X | - | - | X | X | - | - | - |
+| 11 | PIPE | X | - | - | X | X | - | - | - |
+| 12 | DIEN | X | - | - | X | X | - | - | - |
+| 13 | UNBW | X | - | - | X | X | - | - | - |
+|----|------|---|---|---|---|---|---|---|---|
+
+
 ## Tables:
 
 | Table | Name | S/4HANA - Notes |
