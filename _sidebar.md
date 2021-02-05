@@ -64,6 +64,7 @@
   - [azure](./SAPINSTALLATION/AZURE/index)
   - [googlecloud](./SAPINSTALLATION/GCLOUD/index)
   - [onpremise](./SAPINSTALLATION/ONPREMISE/index)
+  - [erptos4hana](./SAPINSTALLATION/ERPtoS4Hana/index)
 
 - SAP ACCOUNTING STANDARDS
 
