@@ -11,3 +11,7 @@ IFRS, US GAAP - Regulations  ...
 ## FINANCIAL STATEMENT PRESENTATION PER US GAAP:
 
 <iframe src="https://drive.google.com/file/d/1mdjZACjWwwcqfjkhuySYgu2whkxTIU05/preview" width="640" height="480"></iframe>
+
+## IFRS SUMMARIZED:
+
+<iframe src="https://drive.google.com/file/d/11OPTmnTEZkdEAx2Dvj5S9gvCbHIAo3mz/preview" width="640" height="480"></iframe>
