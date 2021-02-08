@@ -26,25 +26,6 @@ DOCS related to Inventory Valuation & Management
 
 ## Tables:
 
-| Table | Description |
-|-----------------|--------------|
-
-
-## Programs, Function Modules and Exits:
-
-| Programs | Description | Type |
-|-----------------|--------------|--------------|
-|-----------------|--------------|--------------|
-
-## Role-based Fiori Apps:
-
-### Inventory
-
-- Material Inventory Values - Rounding Diff (Design Studio)
-- Schedule Inventory Accounting Jobs
-
-## Tables:
-
 | Table | Name | S/4HANA - Notes |
 |-------|------|-----------------|
 | IKPF | Header: Physical Inventory Document | In Logical Database IMM INM IRM. |
@@ -61,6 +42,18 @@ DOCS related to Inventory Valuation & Management
 | MSTE | Stock in Transit to Sales and Distribution Document |  |
 | MSTQ | Stock in Transit for Project |  |
 |-------|------|-----------------|
+
+
+## Programs, Function Modules and Exits:
+
+| Programs | Description | Type |
+|-----------------|--------------|--------------|
+|-----------------|--------------|--------------|
+
+## Role-based Fiori Apps:
+
+- Material Inventory Values - Rounding Diff (Design Studio)
+- Schedule Inventory Accounting Jobs
 
 
 ## Platforms:

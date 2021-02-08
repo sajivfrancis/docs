@@ -1,4 +1,4 @@
-# Documents related to software engineering development
+# Documents related to software engineering:
 
 ```
 DOCS FOR FRONTEND DEVELOPMENT
