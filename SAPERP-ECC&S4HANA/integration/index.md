@@ -4,6 +4,9 @@
 DOCS related to third-party integration
 
 ```
+## System Landscape Directory (Configuring & Administering) - Business Systems
+
+<iframe src="https://onedrive.live.com/embed?cid=971D1A17FB31F32E&resid=971D1A17FB31F32E%21357&authkey=AGOpsb1fo4GaUI8&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>
 
 ## Integration Capabilities of S4HANA:
 
