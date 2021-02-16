@@ -1,25 +1,23 @@
-# S4HANA IMPLEMENTATION: 
+# S4HANA IMPLEMENTATION: MODEL COMPANY
 
-## MODEL COMPANY
-
-### Prebuilt versus Custom:
+## Prebuilt versus Custom:
 
 [![ModelSAP](modelsap1.png)](https://www.sap.com "SAP")
 
-### Custom Edition Architecture:
+## Custom Edition Architecture:
 
 [![ModelSAP](modelsap2.png)](https://www.sap.com "SAP")
 
-### Guided Scoping - Business vs Technology Side:
+## Guided Scoping - Business vs Technology Side:
 
 [![ModelSAP](modelsap3.png)](https://www.sap.com "SAP")
 
 
-### Industry, Line of business & Baseline Portfolios:
+## Industry, Line of business & Baseline Portfolios:
 
 [![ModelSAP](modelsap5.png)](https://www.sap.com "SAP")
 
-### Delivery Approach - Adopt Fit-to-standard:
+## Delivery Approach - Adopt Fit-to-standard:
 
 [![ModelSAP](modelsap6.png)](https://www.sap.com "SAP")
 
