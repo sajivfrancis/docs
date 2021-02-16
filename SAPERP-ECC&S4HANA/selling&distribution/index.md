@@ -15,6 +15,29 @@ DOCS related to SAP Selling & Distribution
 
 [![SDOVERVIEW](sdoverview.png)](https://docs.sajivfrancis.com "DOCS")
 
+## SD Variant Configuration:
+
+1.	Create Characteristics (CT04)	
+2.	Create Class (CL01)	
+3.	Assign Class to Material Master (CL20N)	
+4.	Assign Class to Bill of Material (CS01/CS02)
+5.	Create Configuration Profile for FERT (Root Code Item) (CU41)
+6.	Create Configuration Profile for KMAT (Configurable Item) (CU41)
+7.	Create Dependency
+8.	Dependency types
+    - Precondition:
+    - Action:
+    - Selection Condition:
+    - Procedure	
+9.	Create Table Structure (CU61)
+10.	Maintain Table Contents (CU60)
+11.	Create Configurable Material Master (MM01)
+
+### Variant Configuration Guide:
+
+<iframe src="https://drive.google.com/file/d/1d6pQrU1Mfxz2mci6S8wwLKJc2u6PXFSP/preview" width="640" height="480"></iframe>
+
+
 ## Tables:
 
 | Table | Name | S/4HANA - Notes |
