@@ -38,7 +38,7 @@ SAP FINANCE
 
 <iframe src="https://drive.google.com/file/d/10KwGNvrL5ZotuMeXfRbHVYLj73cm7vnk/preview" width="640" height="480"></iframe>
 
-## Matchng Principle:
+## Matching Principle:
 
 Revenue and COGS should be posted in the same period as per Matching Principle in Accounting. SAP standard set up is to post COGS at Goods Issue but this can be configured per business requirement. If your business process includes Goods Issue without Billing in one period then change SAP setup to post COGS at Billing instead of at Goods Issue.
 
