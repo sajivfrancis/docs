@@ -16,6 +16,8 @@ SAP ASSET ACCOUNTING
 
 ### Asset Procurement from PO:
 
+[![AAProcessFlow](AAProcessFlow.png)](https://www.sap.com "SAP")
+
 [![AssetProcurementfromPO](AssetProcurementfromPO.png)](https://www.sap.com "SAP")
 
 ### Asset Valuation:
