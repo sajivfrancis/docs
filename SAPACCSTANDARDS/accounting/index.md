@@ -26,6 +26,8 @@ Rules of accounting for debits and credits:
 
 ### Procure to pay process - (FI-MM Integration):
 
+[![P2PProcessFLow](P2PProcessFlow.png)](https://www.sap.com "SAP")
+
 1. Generating purchase requisition( PP-MM) - ME51N
 2. Making inquiries (MM)  
 3. Raising purchase order (MM) - ME21N
