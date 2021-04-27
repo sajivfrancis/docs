@@ -18,6 +18,8 @@ SAP FINANCE
 
 [![SAPfinancearchitecture](SAPFinancialsArchitecture.png)](https://www.sap.com "SAP")
 
+[![GlProcessFlow](GlProcessFlow.png)](https://www.sap.com "SAP")
+
 [![finance](finance.jpg)](https://www.sap.com "SAP")
 
 
