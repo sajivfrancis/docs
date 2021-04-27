@@ -18,6 +18,8 @@ SAP FINANCE
 
 [![finance](finance.jpg)](https://www.sap.com "SAP")
 
+[![SAPfinancearchitecture](SAPFinancialsArchitecture.png)](https://www.sap.com "SAP")
+
 ### Group Reporting - Financial Consolidation
 
 [![financialconsolidation](GroupReportingFinancialConsolidation.png)](https://www.sap.com "SAP")
