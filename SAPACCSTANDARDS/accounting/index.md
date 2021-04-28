@@ -59,6 +59,8 @@ Note: Incoming Bank Statement: FF_5
 
 ### Order to cash process - (FI-SD Integration):
 
+[![OTCProcessFLow](OTCProcessFlow.png)](https://www.sap.com "SAP")
+
 1. Generating a Sales Quotation (from CRM) - VA21
 2. Creating a Sales Order (SD) - VA01
 3. Outbound Delivery (SD) - VL01N
@@ -81,7 +83,7 @@ Customer a/c Dr
 
 
 ```
-6. Receipt of payment from Customer (FI) - F.28
+6. Receipt of payment from Customer (FI) - F-28
 Entry will be:
 
 ```
