@@ -6,8 +6,7 @@
 
 ## Sample XML File (GL Open Items)
 
-<iframe src="https://drive.google.com/file/d/1wlemGTuRaN8OsSWeB3bOsTqPINh2t_nz/preview" width="640" height="480"></iframe>
-
+<iframe src="https://onedrive.live.com/embed?cid=971D1A17FB31F32E&resid=971D1A17FB31F32E%21362&authkey=ADoPpg2PXfyfEq4" width="402" height="346" frameborder="0" scrolling="no"></iframe>
 
 ## GL Open Items Migration Template:
 
