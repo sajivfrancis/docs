@@ -84,6 +84,8 @@ This tells SAP to post the VPRS value to the 2 accounts maintained in VKOA:
 
 [![UniversalJournal](UniversalJournal.PNG)](https://www.sap.com "SAP")
 
+### Coding Block
+
 [![UniversalJournal1](UniversalJournal1.PNG)](https://www.sap.com "SAP")
 
 
