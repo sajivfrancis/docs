@@ -82,7 +82,10 @@ This tells SAP to post the VPRS value to the 2 accounts maintained in VKOA:
 
 ### Universal Journal
 
-[![universaljournal](universal.jpg)](https://www.sap.com "SAP")
+[![universaljournal](UniversalJournal.png)](https://www.sap.com "SAP")
+
+[![universaljournal](UniversalJournal1.png)](https://www.sap.com "SAP")
+
 
 ### List of tables
 
