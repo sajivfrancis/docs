@@ -89,4 +89,3 @@ Note: S/4 (cloud & on-premise) works only on Hana DB while SAP ERP is compatible
 
 ## Product Costing Doc:
 
-<iframe src="https://drive.google.com/file/d/18zdBrRv0cQwlyf-b2vjihYUpCxr5fGy-/preview" width="640" height="480"></iframe>
